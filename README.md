@@ -30,52 +30,6 @@ Ce projet consiste en une modernisation complète de l'architecture front-end du
 
 ---
 
-## 📁 Structure du projet
-
-Voici l'organisation des principaux fichiers et dossiers de ce dépôt :
-
-```text
-├── index.html                  # Page d'accueil (Club)
-├── planning.html               # Le planning du club à l'année
-├── La_Piscine.html             # Informations sur l'accès aux bassins
-├── Le_Staff.html               # Hub d'accès au bureau et aux moniteurs
-├── Le_Bureau.html              # Trombinoscope des membres du bureau élu
-├── Les_moniteurs.html          # Liste de l'équipe pédagogique (E1 à E4)
-├── Les_Sorties.html            # Calendrier des voyages et archives multimédias
-├── prochaines_sorties.html     # Prochaines sorties du club prévues
-├── Les_telechargements.html    # Accès aux formulaires, cours théoriques et CR
-├── Les_Formations.html         # Cursus de formation (Niveaux 1 à III)
-├── Mentions_Legales.html       # Page contenant les Mentions Légales
-│
-├── documents/                  # Dossier contenant tous les documents
-│   ├── Sorties/                # Dossier de documents pour les sorties
-│   ├── inscription_enfant/     # Dossier de documents pour les inscriptions enfants
-│   ├── inscription_adulte/     # Dossier de documents pour les inscriptions adultes
-│   ├── CR/                     # Dossier des comptes rendus
-│        ├── Moniteurs/         # Dossier des comptes rendus moniteurs
-│        ├── AG/                # Dossier des comptes rendus de l'assemblée Générale
-│        └── Bureau/            # Dossier des comptes rendus du bureau de l'association
-│   ├── cours_theoriques/       # Dossier de l'ensemble des cours théoriques
-│        ├── N1/                # Dossier des cours théoriques de Niveau 1
-│        ├── N2/                # Dossier des cours théoriques du Niveau 2
-│        └── PA40/              # Dossier des cours théoriques du PA40
-│   └── depliants_fsgt/         # Dossier contenant tous les dépliants de la fsgt
-├── images/                     # Dossier des ressources graphiques
-│   ├── Logos/                  # Dossier de l'ensemble des logos utilisés
-│   ├── index/                  # Dossier des images décoratives de la page index.html
-│   ├── piscine/                # Dossier des images décoratives de la page La_Piscine.html
-│   ├── Formations/             # Dossier des images décoratives de la page Les_Formations.html
-│   ├── sorties/                # Dossier des images décoratives de la page Les_Sorties.html
-│   ├── prochaines_sorties/     # Dossier des images décoratives de la page prochaines_sorties.html
-│   ├── staff/                  # Dossier des images décoratives de la page Le_Staff.html
-│   ├── TROMBI/                 # Photos d'identité de l'équipe
-│       ├── Bureau/             # Photos d'identité du Bureau
-│       └── Moniteurs/          # Photos d'identité des Moniteurs
-│   ├── Photo_plongee/          # Galerie photos des sorties clubs
-│   └── video/                  # Fichiers vidéos (.mp4)
-```
----
-
 ## 🚀 Prochaines mises à jour / Roadmap
 
 * [ ] **Espace d'administration & Gestion de contenu (Staff Asterina)** :
@@ -91,6 +45,9 @@ Voici l'organisation des principaux fichiers et dossiers de ce dépôt :
 * [ ] **Formulaire de contact interactif** :
   - Intégration d'un formulaire directement sur le site (demandes d'informations, inscriptions aux baptêmes, prises de contact club) avec notifications par e-mail.
 
+---
+
+### 🔗 Le site : https://asterina.org
 
 ---
 
